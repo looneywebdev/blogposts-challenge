@@ -14,7 +14,9 @@ function lorem () {
 
 BlogPosts.create(
     'Living in Las Vegas', lorem(), 'Heather Looney');
-
+router.get('/', (req, res) => {
+    res.json(BlogPosts.get());
+});
 router.get('/:id', (req, res) => {
     res.json(BlogPosts.get(req.params.id)); 
 });
@@ -37,7 +39,7 @@ router.post('/', (req, res) => {
 router.put('/:id', (req, res) => {
     const requiredFields = [
         'id', 'title', 'content', 'author', 'publishDate'];
-    for (let i=o; i<requiredFields.length; i++) {
+    for (let i=0; i<requiredFields.length; i++) {
         const field = requiredFields[i];
         if (!(field in req.body)){
             const message = `Missing \`${field}\`in request body`;
@@ -64,11 +66,9 @@ router.put('/:id', (req, res) => {
     });
 
 router.delete('/:id', (req, res) => {
-    BlogPosts.delete('/:id', (req, res) => {
         BlogPosts.delete(req.params.id);
         console.log(`Deleted blog post with id \`${req.params.id}\``);
     res.status(204).end();
 });
-})
 
 module.exports = router;
