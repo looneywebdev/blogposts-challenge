@@ -2,7 +2,7 @@
   "name": "blogapi-challenge",
   "version": "1.0.0",
   "description": "",
-  "main": "blogPostRouter.js",
+  "main": "blogPostRouter2.js",
   "scripts": {
     "start": "node server.js",
     "test": "mocha"
