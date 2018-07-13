@@ -1,0 +1,995 @@
+HBs-MacBook-Pro:~ HeatherMarieLooney$ cd Downloads
+HBs-MacBook-Pro:Downloads HeatherMarieLooney$ ls
+1010358-ps1583.pdf
+20171107.211907.CZ2A6K3J64V4TSD9UXV4JB7VVSDZRLET
+Add_4_-_2044_W_Woodview-DigiSign.pdf_encrypted_.pdf
+Addendum 2_encrypted_.pdf
+AdobeFlashPlayer_install-2.dmg
+AdobeFlashPlayer_install.dmg
+AmazonMusicInstaller.dmg
+Brackets.Release.1.12.dmg
+CDCKL4UJDM2SOQUR.ics
+CertificateOfCompletion_WebDevelopmentFoundationsFullStackVsFrontEnd.pdf
+Choose-a-plan-now-2.pdf
+Choose-a-plan-now-3.pdf
+Choose-a-plan-now.pdf
+DeclarationsPage.pdf
+EBDMYEEK6SKVJZOO.ics
+EligibilityResultsNotice-2.pdf
+EligibilityResultsNotice-3.pdf
+EligibilityResultsNotice-4.pdf
+EligibilityResultsNotice.pdf
+Ex_Files_FoP_Fun-2
+Ex_Files_HTML_EssT
+FCHIYA6JGUDOAKOD.ics
+Feb 01, 2017 to Feb 10, 2017.pdf
+Form1095a_2017 (1).pdf
+Form1095a_2017 (2).pdf
+Form1095a_2017.pdf
+HLOONEY - Service Desk Analyst-2.docx
+HLOONEY - Service Desk Analyst.docx
+Heather Looney - Cover Letter - Administrative Assistant.docx
+Heather Looney - Cover Letter - Internal Audit Associate.docx
+Heather Looney - Cover Letter - Tech Support I (1).docx
+Heather Looney - Cover Letter - Tech Support I.docx
+Heather Looney - Cover Letter - Technical Support I-2.docx
+Heather Looney - Cover Letter - Technical Support I.docx
+Heather M. Looney - Cover Letter - Technical Support I (1).docx
+Heather M. Looney - Cover Letter - Technical Support I.docx
+HeatherLooneyProfile.pdf
+Heathers Resume.docx
+IMG_0150.mp4
+IMG_0389.JPG
+IMG_0390-1.JPG
+IMG_0390.JPG
+IMG_0821.JPG
+IMG_2556.JPG
+IMG_3090.jpg
+IMG_3091.jpg
+IMG_3092.jpg
+IMG_3093.jpg
+Install Spotify.app
+InsuranceIDCard.pdf
+JPEG image-A3478C29FFF1-2.jpeg
+JPEG image-A3478C29FFF1-3.jpeg
+Jan 01, 2016 to Dec 31, 2016.pdf
+League of Legends NA.dmg
+League of Legends installer NA (1).dmg
+League of Legends installer NA (2).dmg
+League of Legends installer NA (3).dmg
+League of Legends installer NA.dmg
+League of Legends.app
+Looney,Nicholas_2016 US Organizer Letter_6062194.pdf
+MV5BMTY5NzE3NzU3MF5BMl5BanBnXkFtZTgwMjg0NTQ5MDE@._V1_UX214_CR0,0,214,317_AL_.jpg
+New-plan-act-now.pdf
+Nicholas Looney - Cover Letter - Customer Service Manager.docx
+Offer 2044 W Woodview_encrypted_-2.pdf
+Offer 2044 W Woodview_encrypted_.pdf
+OnlineBill4983254252742925837.pdf
+PAAPICredentials.csv
+Postman-osx-6.1.3.zip
+QuickTimeInstaller.exe
+Screen Shot 2018-05-28 at 12.48.16 PM.png
+Screen Shot 2018-06-06 at 8.42.20 AM.png
+Skype_7.16.386.dmg
+Statement_Apr 2018.pdf
+Statement_Oct 2017.pdf
+Statements.ashx.pdf
+Sublime Text Build 3143.dmg
+Test File.rtf
+Thinkful+Online+Free+Crash+Course%3A+Basic+JavaScript.ics
+Topgolf_Pre-Employment_Application_Statement.pdf
+UnsignedDocument.pdf
+VSCode-darwin-stable.zip
+VerificationofInsurance.pdf
+Visual Studio Code.app
+bryan-minear-266417-unsplash.jpg
+calendar.ics
+cheat-sheet-bundle
+cheat-sheet-bundle.zip
+clear.gif
+googlechrome.dmg
+heathersresume.pdf
+icons8-sunset-50 (1).png
+icons8-sunset-50.png
+install_flash_player_osx.dmg
+mentornotes_052218
+node-v8.11.1.pkg
+primer-dataset.json
+primer-dataset.json.zip
+steam.dmg
+sunrise.png
+tf02918880.dotx
+HBs-MacBook-Pro:Downloads HeatherMarieLooney$ cd ~
+HBs-MacBook-Pro:~ HeatherMarieLooney$ cd Desktop/various-projects/blogapi-challenge/
+HBs-MacBook-Pro:blogapi-challenge HeatherMarieLooney$ heroku logs
+2018-07-12T11:14:01.112678+00:00 app[web.1]: npm ERR! code ELIFECYCLE
+2018-07-12T11:14:01.112952+00:00 app[web.1]: npm ERR! errno 1
+2018-07-12T11:14:01.114058+00:00 app[web.1]: npm ERR! blogapi-challenge@1.0.0 start: `node server.js`
+2018-07-12T11:14:01.114159+00:00 app[web.1]: npm ERR! Exit status 1
+2018-07-12T11:14:01.114405+00:00 app[web.1]: npm ERR!
+2018-07-12T11:14:01.114524+00:00 app[web.1]: npm ERR! Failed at the blogapi-challenge@1.0.0 start script.
+2018-07-12T11:14:01.114643+00:00 app[web.1]: npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+2018-07-12T11:14:01.122542+00:00 app[web.1]:
+2018-07-12T11:14:01.122673+00:00 app[web.1]: npm ERR! A complete log of this run can be found in:
+2018-07-12T11:14:01.122735+00:00 app[web.1]: npm ERR!     /app/.npm/_logs/2018-07-12T11_14_01_115Z-debug.log
+2018-07-12T11:14:01.225824+00:00 heroku[web.1]: Process exited with status 1
+2018-07-12T11:14:01.242070+00:00 heroku[web.1]: State changed from starting to crashed
+2018-07-12T16:58:19.839315+00:00 heroku[web.1]: State changed from crashed to starting
+2018-07-12T16:58:22.090034+00:00 heroku[web.1]: Starting process with command `npm start`
+2018-07-12T16:58:25.315982+00:00 heroku[web.1]: Process exited with status 1
+2018-07-12T16:58:25.334333+00:00 heroku[web.1]: State changed from starting to crashed
+2018-07-12T16:58:25.106198+00:00 app[web.1]:
+2018-07-12T16:58:25.106218+00:00 app[web.1]: > blogapi-challenge@1.0.0 start /app
+2018-07-12T16:58:25.106219+00:00 app[web.1]: > node server.js
+2018-07-12T16:58:25.106220+00:00 app[web.1]:
+2018-07-12T16:58:25.192799+00:00 app[web.1]: module.js:549
+2018-07-12T16:58:25.192803+00:00 app[web.1]: throw err;
+2018-07-12T16:58:25.192804+00:00 app[web.1]: ^
+2018-07-12T16:58:25.192808+00:00 app[web.1]: Error: Cannot find module '/app/server.js'
+2018-07-12T16:58:25.192810+00:00 app[web.1]: at Function.Module._resolveFilename (module.js:547:15)
+2018-07-12T16:58:25.192812+00:00 app[web.1]: at Function.Module._load (module.js:474:25)
+2018-07-12T16:58:25.192814+00:00 app[web.1]: at Function.Module.runMain (module.js:693:10)
+2018-07-12T16:58:25.192806+00:00 app[web.1]:
+2018-07-12T16:58:25.192818+00:00 app[web.1]: at startup (bootstrap_node.js:191:16)
+2018-07-12T16:58:25.192820+00:00 app[web.1]: at bootstrap_node.js:612:3
+2018-07-12T16:58:25.202136+00:00 app[web.1]: npm ERR! code ELIFECYCLE
+2018-07-12T16:58:25.202597+00:00 app[web.1]: npm ERR! errno 1
+2018-07-12T16:58:25.204436+00:00 app[web.1]: npm ERR! Exit status 1
+2018-07-12T16:58:25.204256+00:00 app[web.1]: npm ERR! blogapi-challenge@1.0.0 start: `node server.js`
+2018-07-12T16:58:25.204717+00:00 app[web.1]: npm ERR!
+2018-07-12T16:58:25.204911+00:00 app[web.1]: npm ERR! Failed at the blogapi-challenge@1.0.0 start script.
+2018-07-12T16:58:25.205085+00:00 app[web.1]: npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+2018-07-12T16:58:25.213014+00:00 app[web.1]: npm ERR! A complete log of this run can be found in:
+2018-07-12T16:58:25.212855+00:00 app[web.1]:
+2018-07-12T16:58:25.213081+00:00 app[web.1]: npm ERR!     /app/.npm/_logs/2018-07-12T16_58_25_206Z-debug.log
+2018-07-12T20:35:49.000000+00:00 app[api]: Build started by user looneydevelopment@gmail.com
+2018-07-12T20:35:59.322460+00:00 heroku[web.1]: State changed from crashed to starting
+2018-07-12T20:35:58.998416+00:00 app[api]: Deploy 156b62be by user looneydevelopment@gmail.com
+2018-07-12T20:35:58.998416+00:00 app[api]: Release v4 created by user looneydevelopment@gmail.com
+2018-07-12T20:35:59.000000+00:00 app[api]: Build succeeded
+2018-07-12T20:36:02.571781+00:00 heroku[web.1]: Starting process with command `npm start`
+2018-07-12T20:36:06.081327+00:00 heroku[web.1]: Process exited with status 1
+2018-07-12T20:36:06.103915+00:00 heroku[web.1]: State changed from starting to crashed
+2018-07-12T20:36:06.106691+00:00 heroku[web.1]: State changed from crashed to starting
+2018-07-12T20:36:05.854921+00:00 app[web.1]: > blogapi-challenge@1.0.0 start /app
+2018-07-12T20:36:05.854924+00:00 app[web.1]: > node server.js
+2018-07-12T20:36:05.854891+00:00 app[web.1]:
+2018-07-12T20:36:05.996382+00:00 app[web.1]: module.js:549
+2018-07-12T20:36:05.996386+00:00 app[web.1]: throw err;
+2018-07-12T20:36:05.996387+00:00 app[web.1]: ^
+2018-07-12T20:36:05.996390+00:00 app[web.1]: Error: Cannot find module '/app/server.js'
+2018-07-12T20:36:05.996394+00:00 app[web.1]: at Function.Module._load (module.js:474:25)
+2018-07-12T20:36:05.996389+00:00 app[web.1]:
+2018-07-12T20:36:05.996392+00:00 app[web.1]: at Function.Module._resolveFilename (module.js:547:15)
+2018-07-12T20:36:05.854925+00:00 app[web.1]:
+2018-07-12T20:36:06.007886+00:00 app[web.1]: npm ERR! Exit status 1
+2018-07-12T20:36:05.996395+00:00 app[web.1]: at Function.Module.runMain (module.js:693:10)
+2018-07-12T20:36:05.996399+00:00 app[web.1]: at bootstrap_node.js:612:3
+2018-07-12T20:36:06.005324+00:00 app[web.1]: npm ERR! code ELIFECYCLE
+2018-07-12T20:36:06.008132+00:00 app[web.1]: npm ERR!
+2018-07-12T20:36:06.006154+00:00 app[web.1]: npm ERR! errno 1
+2018-07-12T20:36:06.007726+00:00 app[web.1]: npm ERR! blogapi-challenge@1.0.0 start: `node server.js`
+2018-07-12T20:36:06.008303+00:00 app[web.1]: npm ERR! Failed at the blogapi-challenge@1.0.0 start script.
+2018-07-12T20:36:06.008484+00:00 app[web.1]: npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+2018-07-12T20:36:05.996397+00:00 app[web.1]: at startup (bootstrap_node.js:191:16)
+2018-07-12T20:36:06.015489+00:00 app[web.1]:
+2018-07-12T20:36:06.015703+00:00 app[web.1]: npm ERR! A complete log of this run can be found in:
+2018-07-12T20:36:06.015785+00:00 app[web.1]: npm ERR!     /app/.npm/_logs/2018-07-12T20_36_06_010Z-debug.log
+2018-07-12T20:36:08.019742+00:00 heroku[web.1]: Starting process with command `npm start`
+2018-07-12T20:36:10.224550+00:00 app[web.1]:
+2018-07-12T20:36:10.224575+00:00 app[web.1]: > blogapi-challenge@1.0.0 start /app
+2018-07-12T20:36:10.224577+00:00 app[web.1]: > node server.js
+2018-07-12T20:36:10.224579+00:00 app[web.1]:
+2018-07-12T20:36:10.312817+00:00 app[web.1]: module.js:549
+2018-07-12T20:36:10.312820+00:00 app[web.1]: throw err;
+2018-07-12T20:36:10.312822+00:00 app[web.1]: ^
+2018-07-12T20:36:10.312823+00:00 app[web.1]:
+2018-07-12T20:36:10.312825+00:00 app[web.1]: Error: Cannot find module '/app/server.js'
+2018-07-12T20:36:10.312829+00:00 app[web.1]: at Function.Module._resolveFilename (module.js:547:15)
+2018-07-12T20:36:10.312831+00:00 app[web.1]: at Function.Module._load (module.js:474:25)
+2018-07-12T20:36:10.312832+00:00 app[web.1]: at Function.Module.runMain (module.js:693:10)
+2018-07-12T20:36:10.312834+00:00 app[web.1]: at startup (bootstrap_node.js:191:16)
+2018-07-12T20:36:10.312835+00:00 app[web.1]: at bootstrap_node.js:612:3
+2018-07-12T20:36:10.319599+00:00 app[web.1]: npm ERR! code ELIFECYCLE
+2018-07-12T20:36:10.319993+00:00 app[web.1]: npm ERR! errno 1
+2018-07-12T20:36:10.321024+00:00 app[web.1]: npm ERR! blogapi-challenge@1.0.0 start: `node server.js`
+2018-07-12T20:36:10.321173+00:00 app[web.1]: npm ERR! Exit status 1
+2018-07-12T20:36:10.321398+00:00 app[web.1]: npm ERR!
+2018-07-12T20:36:10.321564+00:00 app[web.1]: npm ERR! Failed at the blogapi-challenge@1.0.0 start script.
+2018-07-12T20:36:10.321730+00:00 app[web.1]: npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+2018-07-12T20:36:10.325678+00:00 app[web.1]:
+2018-07-12T20:36:10.325810+00:00 app[web.1]: npm ERR! A complete log of this run can be found in:
+2018-07-12T20:36:10.325890+00:00 app[web.1]: npm ERR!     /app/.npm/_logs/2018-07-12T20_36_10_323Z-debug.log
+2018-07-12T20:36:10.409661+00:00 heroku[web.1]: State changed from starting to crashed
+2018-07-12T20:36:10.391743+00:00 heroku[web.1]: Process exited with status 1
+HBs-MacBook-Pro:blogapi-challenge HeatherMarieLooney$ ls -la
+total 112
+drwxr-xr-x   13 HeatherMarieLooney  staff    416 Jul 12 13:35 .
+drwxr-xr-x   16 HeatherMarieLooney  staff    512 Jul 12 13:35 ..
+-rw-r--r--@   1 HeatherMarieLooney  staff   6148 Jul  3 10:56 .DS_Store
+drwxr-xr-x   13 HeatherMarieLooney  staff    416 Jul 12 13:35 .git
+-rw-r--r--@   1 HeatherMarieLooney  staff    851 Jul 12 13:34 .travis.yml
+-rw-r--r--@   1 HeatherMarieLooney  staff   2566 Jul 10 19:28 blogPostsRouter2.js
+-rw-r--r--@   1 HeatherMarieLooney  staff   1929 Jul  2 16:47 models.js
+drwxr-xr-x  100 HeatherMarieLooney  staff   3200 Jul  9 11:16 node_modules
+-rw-r--r--    1 HeatherMarieLooney  staff  28411 Jul  9 11:16 package-lock.json
+-rw-r--r--@   1 HeatherMarieLooney  staff    410 Jul  9 11:12 package.json
+drwxr-xr-x    3 HeatherMarieLooney  staff     96 Jul 11 09:34 public
+-rw-r--r--@   1 HeatherMarieLooney  staff   1688 Jul  9 10:58 server2.js
+drwxr-xr-x    3 HeatherMarieLooney  staff     96 Jul 10 19:31 test
+HBs-MacBook-Pro:blogapi-challenge HeatherMarieLooney$ open server2.js
+HBs-MacBook-Pro:blogapi-challenge HeatherMarieLooney$ mv server2.js server.js
+HBs-MacBook-Pro:blogapi-challenge HeatherMarieLooney$ git add .
+HBs-MacBook-Pro:blogapi-challenge HeatherMarieLooney$ git commit -m 'update serverjs name'
+[master 6930c94] update serverjs name
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ rename server2.js => server.js (100%)
+HBs-MacBook-Pro:blogapi-challenge HeatherMarieLooney$ git push https://github.com/looneywebdev/blogposts-challenge.git
+Counting objects: 2, done.
+Delta compression using up to 8 threads.
+Compressing objects: 100% (2/2), done.
+Writing objects: 100% (2/2), 242 bytes | 242.00 KiB/s, done.
+Total 2 (delta 1), reused 0 (delta 0)
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+To https://github.com/looneywebdev/blogposts-challenge.git
+   156b62b..6930c94  master -> master
+HBs-MacBook-Pro:blogapi-challenge HeatherMarieLooney$ cat .git/config
+[core]
+        repositoryformatversion = 0
+        filemode = true
+        bare = false
+        logallrefupdates = true
+        ignorecase = true
+        precomposeunicode = true
+[remote "origin"]
+        url = https://github.com/looneywebdev/blogposts-challenge.git
+        fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "master"]
+        remote = origin
+        merge = refs/heads/master
+[travis]
+        slug = looneywebdev/blogposts-challenge
+[remote "heroku"]
+        url = https://git.heroku.com/radiant-inlet-92650.git
+        fetch = +refs/heads/*:refs/remotes/heroku/*
+HBs-MacBook-Pro:blogapi-challenge HeatherMarieLooney$ git push origin master
+Everything up-to-date
+HBs-MacBook-Pro:blogapi-challenge HeatherMarieLooney$ ls
+blogPostsRouter2.js     node_modules            package.json            server.js
+models.js               package-lock.json       public                  test
+HBs-MacBook-Pro:blogapi-challenge HeatherMarieLooney$ cd test
+HBs-MacBook-Pro:test HeatherMarieLooney$ ls
+test-blogPosts.js
+HBs-MacBook-Pro:test HeatherMarieLooney$ open test-blogPosts.js
+HBs-MacBook-Pro:test HeatherMarieLooney$ cd ..
+HBs-MacBook-Pro:blogapi-challenge HeatherMarieLooney$ ls
+blogPostsRouter2.js     node_modules            package.json            server.js
+models.js               package-lock.json       public                  test
+HBs-MacBook-Pro:blogapi-challenge HeatherMarieLooney$ open package
+package-lock.json  package.json
+HBs-MacBook-Pro:blogapi-challenge HeatherMarieLooney$ open package.json
+HBs-MacBook-Pro:blogapi-challenge HeatherMarieLooney$ git commit -am 'modified file name in testjs'
+[master 0620f45] modified file name in testjs
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HBs-MacBook-Pro:blogapi-challenge HeatherMarieLooney$ git push
+Counting objects: 4, done.
+Delta compression using up to 8 threads.
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (4/4), 361 bytes | 361.00 KiB/s, done.
+Total 4 (delta 2), reused 0 (delta 0)
+remote: Resolving deltas: 100% (2/2), completed with 2 local objects.
+To https://github.com/looneywebdev/blogposts-challenge.git
+   6930c94..0620f45  master -> master
+HBs-MacBook-Pro:blogapi-challenge HeatherMarieLooney$ heroku logs
+2018-07-12T20:35:49.000000+00:00 app[api]: Build started by user looneydevelopment@gmail.com
+2018-07-12T20:35:59.322460+00:00 heroku[web.1]: State changed from crashed to starting
+2018-07-12T20:35:58.998416+00:00 app[api]: Deploy 156b62be by user looneydevelopment@gmail.com
+2018-07-12T20:35:58.998416+00:00 app[api]: Release v4 created by user looneydevelopment@gmail.com
+2018-07-12T20:35:59.000000+00:00 app[api]: Build succeeded
+2018-07-12T20:36:02.571781+00:00 heroku[web.1]: Starting process with command `npm start`
+2018-07-12T20:36:06.081327+00:00 heroku[web.1]: Process exited with status 1
+2018-07-12T20:36:06.103915+00:00 heroku[web.1]: State changed from starting to crashed
+2018-07-12T20:36:06.106691+00:00 heroku[web.1]: State changed from crashed to starting
+2018-07-12T20:36:05.854921+00:00 app[web.1]: > blogapi-challenge@1.0.0 start /app
+2018-07-12T20:36:05.854924+00:00 app[web.1]: > node server.js
+2018-07-12T20:36:05.854891+00:00 app[web.1]:
+2018-07-12T20:36:05.996382+00:00 app[web.1]: module.js:549
+2018-07-12T20:36:05.996386+00:00 app[web.1]: throw err;
+2018-07-12T20:36:05.996387+00:00 app[web.1]: ^
+2018-07-12T20:36:05.996390+00:00 app[web.1]: Error: Cannot find module '/app/server.js'
+2018-07-12T20:36:05.996394+00:00 app[web.1]: at Function.Module._load (module.js:474:25)
+2018-07-12T20:36:05.996389+00:00 app[web.1]:
+2018-07-12T20:36:05.996392+00:00 app[web.1]: at Function.Module._resolveFilename (module.js:547:15)
+2018-07-12T20:36:05.854925+00:00 app[web.1]:
+2018-07-12T20:36:06.007886+00:00 app[web.1]: npm ERR! Exit status 1
+2018-07-12T20:36:05.996395+00:00 app[web.1]: at Function.Module.runMain (module.js:693:10)
+2018-07-12T20:36:05.996399+00:00 app[web.1]: at bootstrap_node.js:612:3
+2018-07-12T20:36:06.005324+00:00 app[web.1]: npm ERR! code ELIFECYCLE
+2018-07-12T20:36:06.008132+00:00 app[web.1]: npm ERR!
+2018-07-12T20:36:06.006154+00:00 app[web.1]: npm ERR! errno 1
+2018-07-12T20:36:06.007726+00:00 app[web.1]: npm ERR! blogapi-challenge@1.0.0 start: `node server.js`
+2018-07-12T20:36:06.008303+00:00 app[web.1]: npm ERR! Failed at the blogapi-challenge@1.0.0 start script.
+2018-07-12T20:36:06.008484+00:00 app[web.1]: npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+2018-07-12T20:36:05.996397+00:00 app[web.1]: at startup (bootstrap_node.js:191:16)
+2018-07-12T20:36:06.015489+00:00 app[web.1]:
+2018-07-12T20:36:06.015703+00:00 app[web.1]: npm ERR! A complete log of this run can be found in:
+2018-07-12T20:36:06.015785+00:00 app[web.1]: npm ERR!     /app/.npm/_logs/2018-07-12T20_36_06_010Z-debug.log
+2018-07-12T20:36:08.019742+00:00 heroku[web.1]: Starting process with command `npm start`
+2018-07-12T20:36:10.224550+00:00 app[web.1]:
+2018-07-12T20:36:10.224575+00:00 app[web.1]: > blogapi-challenge@1.0.0 start /app
+2018-07-12T20:36:10.224577+00:00 app[web.1]: > node server.js
+2018-07-12T20:36:10.224579+00:00 app[web.1]:
+2018-07-12T20:36:10.312817+00:00 app[web.1]: module.js:549
+2018-07-12T20:36:10.312820+00:00 app[web.1]: throw err;
+2018-07-12T20:36:10.312822+00:00 app[web.1]: ^
+2018-07-12T20:36:10.312823+00:00 app[web.1]:
+2018-07-12T20:36:10.312825+00:00 app[web.1]: Error: Cannot find module '/app/server.js'
+2018-07-12T20:36:10.312829+00:00 app[web.1]: at Function.Module._resolveFilename (module.js:547:15)
+2018-07-12T20:36:10.312831+00:00 app[web.1]: at Function.Module._load (module.js:474:25)
+2018-07-12T20:36:10.312832+00:00 app[web.1]: at Function.Module.runMain (module.js:693:10)
+2018-07-12T20:36:10.312834+00:00 app[web.1]: at startup (bootstrap_node.js:191:16)
+2018-07-12T20:36:10.312835+00:00 app[web.1]: at bootstrap_node.js:612:3
+2018-07-12T20:36:10.319599+00:00 app[web.1]: npm ERR! code ELIFECYCLE
+2018-07-12T20:36:10.319993+00:00 app[web.1]: npm ERR! errno 1
+2018-07-12T20:36:10.321024+00:00 app[web.1]: npm ERR! blogapi-challenge@1.0.0 start: `node server.js`
+2018-07-12T20:36:10.321173+00:00 app[web.1]: npm ERR! Exit status 1
+2018-07-12T20:36:10.321398+00:00 app[web.1]: npm ERR!
+2018-07-12T20:36:10.321564+00:00 app[web.1]: npm ERR! Failed at the blogapi-challenge@1.0.0 start script.
+2018-07-12T20:36:10.321730+00:00 app[web.1]: npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+2018-07-12T20:36:10.325678+00:00 app[web.1]:
+2018-07-12T20:36:10.325810+00:00 app[web.1]: npm ERR! A complete log of this run can be found in:
+2018-07-12T20:36:10.325890+00:00 app[web.1]: npm ERR!     /app/.npm/_logs/2018-07-12T20_36_10_323Z-debug.log
+2018-07-12T20:36:10.409661+00:00 heroku[web.1]: State changed from starting to crashed
+2018-07-12T20:36:10.391743+00:00 heroku[web.1]: Process exited with status 1
+2018-07-12T21:00:43.447364+00:00 heroku[web.1]: State changed from crashed to starting
+2018-07-12T21:00:48.199329+00:00 heroku[web.1]: Starting process with command `npm start`
+2018-07-12T21:00:51.974295+00:00 heroku[web.1]: Process exited with status 1
+2018-07-12T21:00:52.088390+00:00 heroku[web.1]: State changed from starting to crashed
+2018-07-12T21:00:51.592691+00:00 app[web.1]:
+2018-07-12T21:00:51.592712+00:00 app[web.1]: > blogapi-challenge@1.0.0 start /app
+2018-07-12T21:00:51.592713+00:00 app[web.1]: > node server.js
+2018-07-12T21:00:51.592715+00:00 app[web.1]:
+2018-07-12T21:00:51.798680+00:00 app[web.1]: throw err;
+2018-07-12T21:00:51.798677+00:00 app[web.1]: module.js:549
+2018-07-12T21:00:51.798687+00:00 app[web.1]: ^
+2018-07-12T21:00:51.798688+00:00 app[web.1]:
+2018-07-12T21:00:51.798690+00:00 app[web.1]: Error: Cannot find module '/app/server.js'
+2018-07-12T21:00:51.798693+00:00 app[web.1]: at Function.Module._resolveFilename (module.js:547:15)
+2018-07-12T21:00:51.798694+00:00 app[web.1]: at Function.Module._load (module.js:474:25)
+2018-07-12T21:00:51.798696+00:00 app[web.1]: at Function.Module.runMain (module.js:693:10)
+2018-07-12T21:00:51.798697+00:00 app[web.1]: at startup (bootstrap_node.js:191:16)
+2018-07-12T21:00:51.798699+00:00 app[web.1]: at bootstrap_node.js:612:3
+2018-07-12T21:00:51.817077+00:00 app[web.1]: npm ERR! code ELIFECYCLE
+2018-07-12T21:00:51.817602+00:00 app[web.1]: npm ERR! errno 1
+2018-07-12T21:00:51.819382+00:00 app[web.1]: npm ERR! blogapi-challenge@1.0.0 start: `node server.js`
+2018-07-12T21:00:51.819596+00:00 app[web.1]: npm ERR! Exit status 1
+2018-07-12T21:00:51.819925+00:00 app[web.1]: npm ERR!
+2018-07-12T21:00:51.820142+00:00 app[web.1]: npm ERR! Failed at the blogapi-challenge@1.0.0 start script.
+2018-07-12T21:00:51.820352+00:00 app[web.1]: npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+2018-07-12T21:00:51.864061+00:00 app[web.1]:
+2018-07-12T21:00:51.864262+00:00 app[web.1]: npm ERR! A complete log of this run can be found in:
+2018-07-12T21:00:51.864361+00:00 app[web.1]: npm ERR!     /app/.npm/_logs/2018-07-12T21_00_51_832Z-debug.log
+2018-07-12T21:11:23.000000+00:00 app[api]: Build started by user looneydevelopment@gmail.com
+2018-07-12T21:11:33.832624+00:00 heroku[web.1]: State changed from crashed to starting
+2018-07-12T21:11:33.356452+00:00 app[api]: Deploy 0620f45b by user looneydevelopment@gmail.com
+2018-07-12T21:11:33.356452+00:00 app[api]: Release v5 created by user looneydevelopment@gmail.com
+2018-07-12T21:11:33.000000+00:00 app[api]: Build succeeded
+2018-07-12T21:11:36.798356+00:00 heroku[web.1]: Starting process with command `npm start`
+2018-07-12T21:11:39.059719+00:00 app[web.1]:
+2018-07-12T21:11:39.059751+00:00 app[web.1]: > blogapi-challenge@1.0.0 start /app
+2018-07-12T21:11:39.059753+00:00 app[web.1]: > node server.js
+2018-07-12T21:11:39.059755+00:00 app[web.1]:
+2018-07-12T21:11:39.343226+00:00 app[web.1]: Your app is listening on port 51626
+2018-07-12T21:11:40.461496+00:00 heroku[web.1]: State changed from starting to up
+HBs-MacBook-Pro:blogapi-challenge HeatherMarieLooney$ node server.js
+Your app is listening on port 8080
+^C
+HBs-MacBook-Pro:blogapi-challenge HeatherMarieLooney$ open server.js
+HBs-MacBook-Pro:blogapi-challenge HeatherMarieLooney$ open package.json
+HBs-MacBook-Pro:blogapi-challenge HeatherMarieLooney$ npm start
+
+> blogapi-challenge@1.0.0 start /Users/HeatherMarieLooney/Desktop/various-projects/blogapi-challenge
+> PORT=8081 node server.js
+
+Your app is listening on port 8081
+^C
+HBs-MacBook-Pro:blogapi-challenge HeatherMarieLooney$ git commit -am 'modify port on packagejson'
+[master 0cb2562] modify port on packagejson
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HBs-MacBook-Pro:blogapi-challenge HeatherMarieLooney$ git push
+Counting objects: 3, done.
+Delta compression using up to 8 threads.
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 321 bytes | 321.00 KiB/s, done.
+Total 3 (delta 2), reused 0 (delta 0)
+remote: Resolving deltas: 100% (2/2), completed with 2 local objects.
+To https://github.com/looneywebdev/blogposts-challenge.git
+   0620f45..0cb2562  master -> master
+HBs-MacBook-Pro:blogapi-challenge HeatherMarieLooney$ heroku logs
+2018-07-12T20:36:05.996387+00:00 app[web.1]: ^
+2018-07-12T20:36:05.996390+00:00 app[web.1]: Error: Cannot find module '/app/server.js'
+2018-07-12T20:36:05.996394+00:00 app[web.1]: at Function.Module._load (module.js:474:25)
+2018-07-12T20:36:05.996389+00:00 app[web.1]:
+2018-07-12T20:36:05.996392+00:00 app[web.1]: at Function.Module._resolveFilename (module.js:547:15)
+2018-07-12T20:36:05.854925+00:00 app[web.1]:
+2018-07-12T20:36:06.007886+00:00 app[web.1]: npm ERR! Exit status 1
+2018-07-12T20:36:05.996395+00:00 app[web.1]: at Function.Module.runMain (module.js:693:10)
+2018-07-12T20:36:05.996399+00:00 app[web.1]: at bootstrap_node.js:612:3
+2018-07-12T20:36:06.005324+00:00 app[web.1]: npm ERR! code ELIFECYCLE
+2018-07-12T20:36:06.008132+00:00 app[web.1]: npm ERR!
+2018-07-12T20:36:06.006154+00:00 app[web.1]: npm ERR! errno 1
+2018-07-12T20:36:06.007726+00:00 app[web.1]: npm ERR! blogapi-challenge@1.0.0 start: `node server.js`
+2018-07-12T20:36:06.008303+00:00 app[web.1]: npm ERR! Failed at the blogapi-challenge@1.0.0 start script.
+2018-07-12T20:36:06.008484+00:00 app[web.1]: npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+2018-07-12T20:36:05.996397+00:00 app[web.1]: at startup (bootstrap_node.js:191:16)
+2018-07-12T20:36:06.015489+00:00 app[web.1]:
+2018-07-12T20:36:06.015703+00:00 app[web.1]: npm ERR! A complete log of this run can be found in:
+2018-07-12T20:36:06.015785+00:00 app[web.1]: npm ERR!     /app/.npm/_logs/2018-07-12T20_36_06_010Z-debug.log
+2018-07-12T20:36:08.019742+00:00 heroku[web.1]: Starting process with command `npm start`
+2018-07-12T20:36:10.224550+00:00 app[web.1]:
+2018-07-12T20:36:10.224575+00:00 app[web.1]: > blogapi-challenge@1.0.0 start /app
+2018-07-12T20:36:10.224577+00:00 app[web.1]: > node server.js
+2018-07-12T20:36:10.224579+00:00 app[web.1]:
+2018-07-12T20:36:10.312817+00:00 app[web.1]: module.js:549
+2018-07-12T20:36:10.312820+00:00 app[web.1]: throw err;
+2018-07-12T20:36:10.312822+00:00 app[web.1]: ^
+2018-07-12T20:36:10.312823+00:00 app[web.1]:
+2018-07-12T20:36:10.312825+00:00 app[web.1]: Error: Cannot find module '/app/server.js'
+2018-07-12T20:36:10.312829+00:00 app[web.1]: at Function.Module._resolveFilename (module.js:547:15)
+2018-07-12T20:36:10.312831+00:00 app[web.1]: at Function.Module._load (module.js:474:25)
+2018-07-12T20:36:10.312832+00:00 app[web.1]: at Function.Module.runMain (module.js:693:10)
+2018-07-12T20:36:10.312834+00:00 app[web.1]: at startup (bootstrap_node.js:191:16)
+2018-07-12T20:36:10.312835+00:00 app[web.1]: at bootstrap_node.js:612:3
+2018-07-12T20:36:10.319599+00:00 app[web.1]: npm ERR! code ELIFECYCLE
+2018-07-12T20:36:10.319993+00:00 app[web.1]: npm ERR! errno 1
+2018-07-12T20:36:10.321024+00:00 app[web.1]: npm ERR! blogapi-challenge@1.0.0 start: `node server.js`
+2018-07-12T20:36:10.321173+00:00 app[web.1]: npm ERR! Exit status 1
+2018-07-12T20:36:10.321398+00:00 app[web.1]: npm ERR!
+2018-07-12T20:36:10.321564+00:00 app[web.1]: npm ERR! Failed at the blogapi-challenge@1.0.0 start script.
+2018-07-12T20:36:10.321730+00:00 app[web.1]: npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+2018-07-12T20:36:10.325678+00:00 app[web.1]:
+2018-07-12T20:36:10.325810+00:00 app[web.1]: npm ERR! A complete log of this run can be found in:
+2018-07-12T20:36:10.325890+00:00 app[web.1]: npm ERR!     /app/.npm/_logs/2018-07-12T20_36_10_323Z-debug.log
+2018-07-12T20:36:10.409661+00:00 heroku[web.1]: State changed from starting to crashed
+2018-07-12T20:36:10.391743+00:00 heroku[web.1]: Process exited with status 1
+2018-07-12T21:00:43.447364+00:00 heroku[web.1]: State changed from crashed to starting
+2018-07-12T21:00:48.199329+00:00 heroku[web.1]: Starting process with command `npm start`
+2018-07-12T21:00:51.974295+00:00 heroku[web.1]: Process exited with status 1
+2018-07-12T21:00:52.088390+00:00 heroku[web.1]: State changed from starting to crashed
+2018-07-12T21:00:51.592691+00:00 app[web.1]:
+2018-07-12T21:00:51.592712+00:00 app[web.1]: > blogapi-challenge@1.0.0 start /app
+2018-07-12T21:00:51.592713+00:00 app[web.1]: > node server.js
+2018-07-12T21:00:51.592715+00:00 app[web.1]:
+2018-07-12T21:00:51.798680+00:00 app[web.1]: throw err;
+2018-07-12T21:00:51.798677+00:00 app[web.1]: module.js:549
+2018-07-12T21:00:51.798687+00:00 app[web.1]: ^
+2018-07-12T21:00:51.798688+00:00 app[web.1]:
+2018-07-12T21:00:51.798690+00:00 app[web.1]: Error: Cannot find module '/app/server.js'
+2018-07-12T21:00:51.798693+00:00 app[web.1]: at Function.Module._resolveFilename (module.js:547:15)
+2018-07-12T21:00:51.798694+00:00 app[web.1]: at Function.Module._load (module.js:474:25)
+2018-07-12T21:00:51.798696+00:00 app[web.1]: at Function.Module.runMain (module.js:693:10)
+2018-07-12T21:00:51.798697+00:00 app[web.1]: at startup (bootstrap_node.js:191:16)
+2018-07-12T21:00:51.798699+00:00 app[web.1]: at bootstrap_node.js:612:3
+2018-07-12T21:00:51.817077+00:00 app[web.1]: npm ERR! code ELIFECYCLE
+2018-07-12T21:00:51.817602+00:00 app[web.1]: npm ERR! errno 1
+2018-07-12T21:00:51.819382+00:00 app[web.1]: npm ERR! blogapi-challenge@1.0.0 start: `node server.js`
+2018-07-12T21:00:51.819596+00:00 app[web.1]: npm ERR! Exit status 1
+2018-07-12T21:00:51.819925+00:00 app[web.1]: npm ERR!
+2018-07-12T21:00:51.820142+00:00 app[web.1]: npm ERR! Failed at the blogapi-challenge@1.0.0 start script.
+2018-07-12T21:00:51.820352+00:00 app[web.1]: npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+2018-07-12T21:00:51.864061+00:00 app[web.1]:
+2018-07-12T21:00:51.864262+00:00 app[web.1]: npm ERR! A complete log of this run can be found in:
+2018-07-12T21:00:51.864361+00:00 app[web.1]: npm ERR!     /app/.npm/_logs/2018-07-12T21_00_51_832Z-debug.log
+2018-07-12T21:11:23.000000+00:00 app[api]: Build started by user looneydevelopment@gmail.com
+2018-07-12T21:11:33.832624+00:00 heroku[web.1]: State changed from crashed to starting
+2018-07-12T21:11:33.356452+00:00 app[api]: Deploy 0620f45b by user looneydevelopment@gmail.com
+2018-07-12T21:11:33.356452+00:00 app[api]: Release v5 created by user looneydevelopment@gmail.com
+2018-07-12T21:11:33.000000+00:00 app[api]: Build succeeded
+2018-07-12T21:11:36.798356+00:00 heroku[web.1]: Starting process with command `npm start`
+2018-07-12T21:11:39.059719+00:00 app[web.1]:
+2018-07-12T21:11:39.059751+00:00 app[web.1]: > blogapi-challenge@1.0.0 start /app
+2018-07-12T21:11:39.059753+00:00 app[web.1]: > node server.js
+2018-07-12T21:11:39.059755+00:00 app[web.1]:
+2018-07-12T21:11:39.343226+00:00 app[web.1]: Your app is listening on port 51626
+2018-07-12T21:11:40.461496+00:00 heroku[web.1]: State changed from starting to up
+2018-07-12T21:19:05.000000+00:00 app[api]: Build started by user looneydevelopment@gmail.com
+2018-07-12T21:19:16.295349+00:00 heroku[web.1]: Restarting
+2018-07-12T21:19:16.295824+00:00 heroku[web.1]: State changed from up to starting
+2018-07-12T21:19:16.888889+00:00 heroku[web.1]: Stopping all processes with SIGTERM
+2018-07-12T21:19:16.964127+00:00 heroku[web.1]: Process exited with status 143
+2018-07-12T21:19:16.147558+00:00 app[api]: Deploy 0cb25621 by user looneydevelopment@gmail.com
+2018-07-12T21:19:16.147558+00:00 app[api]: Release v6 created by user looneydevelopment@gmail.com
+2018-07-12T21:19:18.043092+00:00 heroku[web.1]: Starting process with command `npm start`
+2018-07-12T21:19:16.000000+00:00 app[api]: Build succeeded
+2018-07-12T21:19:19.940531+00:00 app[web.1]: > blogapi-challenge@1.0.0 start /app
+2018-07-12T21:19:19.940507+00:00 app[web.1]:
+2018-07-12T21:19:19.940533+00:00 app[web.1]: > PORT=8080 node server.js
+2018-07-12T21:19:19.940535+00:00 app[web.1]:
+2018-07-12T21:19:20.134230+00:00 app[web.1]: Your app is listening on port 8080
+HBs-MacBook-Pro:blogapi-challenge HeatherMarieLooney$ heroku logs
+2018-07-12T20:36:10.224550+00:00 app[web.1]:
+2018-07-12T20:36:10.224575+00:00 app[web.1]: > blogapi-challenge@1.0.0 start /app
+2018-07-12T20:36:10.224577+00:00 app[web.1]: > node server.js
+2018-07-12T20:36:10.224579+00:00 app[web.1]:
+2018-07-12T20:36:10.312817+00:00 app[web.1]: module.js:549
+2018-07-12T20:36:10.312820+00:00 app[web.1]: throw err;
+2018-07-12T20:36:10.312822+00:00 app[web.1]: ^
+2018-07-12T20:36:10.312823+00:00 app[web.1]:
+2018-07-12T20:36:10.312825+00:00 app[web.1]: Error: Cannot find module '/app/server.js'
+2018-07-12T20:36:10.312829+00:00 app[web.1]: at Function.Module._resolveFilename (module.js:547:15)
+2018-07-12T20:36:10.312831+00:00 app[web.1]: at Function.Module._load (module.js:474:25)
+2018-07-12T20:36:10.312832+00:00 app[web.1]: at Function.Module.runMain (module.js:693:10)
+2018-07-12T20:36:10.312834+00:00 app[web.1]: at startup (bootstrap_node.js:191:16)
+2018-07-12T20:36:10.312835+00:00 app[web.1]: at bootstrap_node.js:612:3
+2018-07-12T20:36:10.319599+00:00 app[web.1]: npm ERR! code ELIFECYCLE
+2018-07-12T20:36:10.319993+00:00 app[web.1]: npm ERR! errno 1
+2018-07-12T20:36:10.321024+00:00 app[web.1]: npm ERR! blogapi-challenge@1.0.0 start: `node server.js`
+2018-07-12T20:36:10.321173+00:00 app[web.1]: npm ERR! Exit status 1
+2018-07-12T20:36:10.321398+00:00 app[web.1]: npm ERR!
+2018-07-12T20:36:10.321564+00:00 app[web.1]: npm ERR! Failed at the blogapi-challenge@1.0.0 start script.
+2018-07-12T20:36:10.321730+00:00 app[web.1]: npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+2018-07-12T20:36:10.325678+00:00 app[web.1]:
+2018-07-12T20:36:10.325810+00:00 app[web.1]: npm ERR! A complete log of this run can be found in:
+2018-07-12T20:36:10.325890+00:00 app[web.1]: npm ERR!     /app/.npm/_logs/2018-07-12T20_36_10_323Z-debug.log
+2018-07-12T20:36:10.409661+00:00 heroku[web.1]: State changed from starting to crashed
+2018-07-12T20:36:10.391743+00:00 heroku[web.1]: Process exited with status 1
+2018-07-12T21:00:43.447364+00:00 heroku[web.1]: State changed from crashed to starting
+2018-07-12T21:00:48.199329+00:00 heroku[web.1]: Starting process with command `npm start`
+2018-07-12T21:00:51.974295+00:00 heroku[web.1]: Process exited with status 1
+2018-07-12T21:00:52.088390+00:00 heroku[web.1]: State changed from starting to crashed
+2018-07-12T21:00:51.592691+00:00 app[web.1]:
+2018-07-12T21:00:51.592712+00:00 app[web.1]: > blogapi-challenge@1.0.0 start /app
+2018-07-12T21:00:51.592713+00:00 app[web.1]: > node server.js
+2018-07-12T21:00:51.592715+00:00 app[web.1]:
+2018-07-12T21:00:51.798680+00:00 app[web.1]: throw err;
+2018-07-12T21:00:51.798677+00:00 app[web.1]: module.js:549
+2018-07-12T21:00:51.798687+00:00 app[web.1]: ^
+2018-07-12T21:00:51.798688+00:00 app[web.1]:
+2018-07-12T21:00:51.798690+00:00 app[web.1]: Error: Cannot find module '/app/server.js'
+2018-07-12T21:00:51.798693+00:00 app[web.1]: at Function.Module._resolveFilename (module.js:547:15)
+2018-07-12T21:00:51.798694+00:00 app[web.1]: at Function.Module._load (module.js:474:25)
+2018-07-12T21:00:51.798696+00:00 app[web.1]: at Function.Module.runMain (module.js:693:10)
+2018-07-12T21:00:51.798697+00:00 app[web.1]: at startup (bootstrap_node.js:191:16)
+2018-07-12T21:00:51.798699+00:00 app[web.1]: at bootstrap_node.js:612:3
+2018-07-12T21:00:51.817077+00:00 app[web.1]: npm ERR! code ELIFECYCLE
+2018-07-12T21:00:51.817602+00:00 app[web.1]: npm ERR! errno 1
+2018-07-12T21:00:51.819382+00:00 app[web.1]: npm ERR! blogapi-challenge@1.0.0 start: `node server.js`
+2018-07-12T21:00:51.819596+00:00 app[web.1]: npm ERR! Exit status 1
+2018-07-12T21:00:51.819925+00:00 app[web.1]: npm ERR!
+2018-07-12T21:00:51.820142+00:00 app[web.1]: npm ERR! Failed at the blogapi-challenge@1.0.0 start script.
+2018-07-12T21:00:51.820352+00:00 app[web.1]: npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+2018-07-12T21:00:51.864061+00:00 app[web.1]:
+2018-07-12T21:00:51.864262+00:00 app[web.1]: npm ERR! A complete log of this run can be found in:
+2018-07-12T21:00:51.864361+00:00 app[web.1]: npm ERR!     /app/.npm/_logs/2018-07-12T21_00_51_832Z-debug.log
+2018-07-12T21:11:23.000000+00:00 app[api]: Build started by user looneydevelopment@gmail.com
+2018-07-12T21:11:33.832624+00:00 heroku[web.1]: State changed from crashed to starting
+2018-07-12T21:11:33.356452+00:00 app[api]: Deploy 0620f45b by user looneydevelopment@gmail.com
+2018-07-12T21:11:33.356452+00:00 app[api]: Release v5 created by user looneydevelopment@gmail.com
+2018-07-12T21:11:33.000000+00:00 app[api]: Build succeeded
+2018-07-12T21:11:36.798356+00:00 heroku[web.1]: Starting process with command `npm start`
+2018-07-12T21:11:39.059719+00:00 app[web.1]:
+2018-07-12T21:11:39.059751+00:00 app[web.1]: > blogapi-challenge@1.0.0 start /app
+2018-07-12T21:11:39.059753+00:00 app[web.1]: > node server.js
+2018-07-12T21:11:39.059755+00:00 app[web.1]:
+2018-07-12T21:11:39.343226+00:00 app[web.1]: Your app is listening on port 51626
+2018-07-12T21:11:40.461496+00:00 heroku[web.1]: State changed from starting to up
+2018-07-12T21:19:05.000000+00:00 app[api]: Build started by user looneydevelopment@gmail.com
+2018-07-12T21:19:16.295349+00:00 heroku[web.1]: Restarting
+2018-07-12T21:19:16.295824+00:00 heroku[web.1]: State changed from up to starting
+2018-07-12T21:19:16.888889+00:00 heroku[web.1]: Stopping all processes with SIGTERM
+2018-07-12T21:19:16.964127+00:00 heroku[web.1]: Process exited with status 143
+2018-07-12T21:19:16.147558+00:00 app[api]: Deploy 0cb25621 by user looneydevelopment@gmail.com
+2018-07-12T21:19:16.147558+00:00 app[api]: Release v6 created by user looneydevelopment@gmail.com
+2018-07-12T21:19:18.043092+00:00 heroku[web.1]: Starting process with command `npm start`
+2018-07-12T21:19:16.000000+00:00 app[api]: Build succeeded
+2018-07-12T21:19:19.940531+00:00 app[web.1]: > blogapi-challenge@1.0.0 start /app
+2018-07-12T21:19:19.940507+00:00 app[web.1]:
+2018-07-12T21:19:19.940533+00:00 app[web.1]: > PORT=8080 node server.js
+2018-07-12T21:19:19.940535+00:00 app[web.1]:
+2018-07-12T21:19:20.134230+00:00 app[web.1]: Your app is listening on port 8080
+2018-07-12T21:20:18.388499+00:00 heroku[web.1]: State changed from starting to crashed
+2018-07-12T21:20:18.390615+00:00 heroku[web.1]: State changed from crashed to starting
+2018-07-12T21:20:18.297855+00:00 heroku[web.1]: Error R10 (Boot timeout) -> Web process failed to bind to $PORT within 60 seconds of launch
+2018-07-12T21:20:18.297909+00:00 heroku[web.1]: Stopping process with SIGKILL
+2018-07-12T21:20:18.372915+00:00 heroku[web.1]: Process exited with status 137
+2018-07-12T21:20:20.981143+00:00 heroku[web.1]: Starting process with command `npm start`
+2018-07-12T21:20:24.177403+00:00 app[web.1]:
+2018-07-12T21:20:24.177422+00:00 app[web.1]: > blogapi-challenge@1.0.0 start /app
+2018-07-12T21:20:24.177424+00:00 app[web.1]: > PORT=8080 node server.js
+2018-07-12T21:20:24.177426+00:00 app[web.1]:
+2018-07-12T21:20:24.619272+00:00 app[web.1]: Your app is listening on port 8080
+2018-07-12T21:21:21.693625+00:00 app[web.1]: Error waiting for process to terminate: No child processes
+2018-07-12T21:21:21.668959+00:00 heroku[web.1]: Error R10 (Boot timeout) -> Web process failed to bind to $PORT within 60 seconds of launch
+2018-07-12T21:21:21.669121+00:00 heroku[web.1]: Stopping process with SIGKILL
+2018-07-12T21:21:21.789297+00:00 heroku[web.1]: Process exited with status 22
+2018-07-12T21:21:21.808590+00:00 heroku[web.1]: State changed from starting to crashed
+2018-07-12T21:21:23.165030+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/" host=radiant-inlet-92650.herokuapp.com request_id=2c44dc79-a064-42c5-adca-0fea755e2845 fwd="70.180.138.204" dyno= connect= service= status=503 bytes= protocol=https
+2018-07-12T21:21:24.338540+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/favicon.ico" host=radiant-inlet-92650.herokuapp.com request_id=be88a96b-9c6c-4221-a403-87109fcf11ca fwd="70.180.138.204" dyno= connect= service= status=503 bytes= protocol=https
+2018-07-12T21:22:14.968678+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/blog-posts" host=radiant-inlet-92650.herokuapp.com request_id=9c59dee3-d33d-464d-9885-859481f13eb3 fwd="70.180.138.204" dyno= connect= service= status=503 bytes= protocol=https
+2018-07-12T21:22:15.501241+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/favicon.ico" host=radiant-inlet-92650.herokuapp.com request_id=398ac697-5f2e-4bb2-a169-a488f7c69cc6 fwd="70.180.138.204" dyno= connect= service= status=503 bytes= protocol=https
+HBs-MacBook-Pro:blogapi-challenge HeatherMarieLooney$ heroku logs
+2018-07-12T20:36:10.224550+00:00 app[web.1]:
+2018-07-12T20:36:10.224575+00:00 app[web.1]: > blogapi-challenge@1.0.0 start /app
+2018-07-12T20:36:10.224577+00:00 app[web.1]: > node server.js
+2018-07-12T20:36:10.224579+00:00 app[web.1]:
+2018-07-12T20:36:10.312817+00:00 app[web.1]: module.js:549
+2018-07-12T20:36:10.312820+00:00 app[web.1]: throw err;
+2018-07-12T20:36:10.312822+00:00 app[web.1]: ^
+2018-07-12T20:36:10.312823+00:00 app[web.1]:
+2018-07-12T20:36:10.312825+00:00 app[web.1]: Error: Cannot find module '/app/server.js'
+2018-07-12T20:36:10.312829+00:00 app[web.1]: at Function.Module._resolveFilename (module.js:547:15)
+2018-07-12T20:36:10.312831+00:00 app[web.1]: at Function.Module._load (module.js:474:25)
+2018-07-12T20:36:10.312832+00:00 app[web.1]: at Function.Module.runMain (module.js:693:10)
+2018-07-12T20:36:10.312834+00:00 app[web.1]: at startup (bootstrap_node.js:191:16)
+2018-07-12T20:36:10.312835+00:00 app[web.1]: at bootstrap_node.js:612:3
+2018-07-12T20:36:10.319599+00:00 app[web.1]: npm ERR! code ELIFECYCLE
+2018-07-12T20:36:10.319993+00:00 app[web.1]: npm ERR! errno 1
+2018-07-12T20:36:10.321024+00:00 app[web.1]: npm ERR! blogapi-challenge@1.0.0 start: `node server.js`
+2018-07-12T20:36:10.321173+00:00 app[web.1]: npm ERR! Exit status 1
+2018-07-12T20:36:10.321398+00:00 app[web.1]: npm ERR!
+2018-07-12T20:36:10.321564+00:00 app[web.1]: npm ERR! Failed at the blogapi-challenge@1.0.0 start script.
+2018-07-12T20:36:10.321730+00:00 app[web.1]: npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+2018-07-12T20:36:10.325678+00:00 app[web.1]:
+2018-07-12T20:36:10.325810+00:00 app[web.1]: npm ERR! A complete log of this run can be found in:
+2018-07-12T20:36:10.325890+00:00 app[web.1]: npm ERR!     /app/.npm/_logs/2018-07-12T20_36_10_323Z-debug.log
+2018-07-12T20:36:10.409661+00:00 heroku[web.1]: State changed from starting to crashed
+2018-07-12T20:36:10.391743+00:00 heroku[web.1]: Process exited with status 1
+2018-07-12T21:00:43.447364+00:00 heroku[web.1]: State changed from crashed to starting
+2018-07-12T21:00:48.199329+00:00 heroku[web.1]: Starting process with command `npm start`
+2018-07-12T21:00:51.974295+00:00 heroku[web.1]: Process exited with status 1
+2018-07-12T21:00:52.088390+00:00 heroku[web.1]: State changed from starting to crashed
+2018-07-12T21:00:51.592691+00:00 app[web.1]:
+2018-07-12T21:00:51.592712+00:00 app[web.1]: > blogapi-challenge@1.0.0 start /app
+2018-07-12T21:00:51.592713+00:00 app[web.1]: > node server.js
+2018-07-12T21:00:51.592715+00:00 app[web.1]:
+2018-07-12T21:00:51.798680+00:00 app[web.1]: throw err;
+2018-07-12T21:00:51.798677+00:00 app[web.1]: module.js:549
+2018-07-12T21:00:51.798687+00:00 app[web.1]: ^
+2018-07-12T21:00:51.798688+00:00 app[web.1]:
+2018-07-12T21:00:51.798690+00:00 app[web.1]: Error: Cannot find module '/app/server.js'
+2018-07-12T21:00:51.798693+00:00 app[web.1]: at Function.Module._resolveFilename (module.js:547:15)
+2018-07-12T21:00:51.798694+00:00 app[web.1]: at Function.Module._load (module.js:474:25)
+2018-07-12T21:00:51.798696+00:00 app[web.1]: at Function.Module.runMain (module.js:693:10)
+2018-07-12T21:00:51.798697+00:00 app[web.1]: at startup (bootstrap_node.js:191:16)
+2018-07-12T21:00:51.798699+00:00 app[web.1]: at bootstrap_node.js:612:3
+2018-07-12T21:00:51.817077+00:00 app[web.1]: npm ERR! code ELIFECYCLE
+2018-07-12T21:00:51.817602+00:00 app[web.1]: npm ERR! errno 1
+2018-07-12T21:00:51.819382+00:00 app[web.1]: npm ERR! blogapi-challenge@1.0.0 start: `node server.js`
+2018-07-12T21:00:51.819596+00:00 app[web.1]: npm ERR! Exit status 1
+2018-07-12T21:00:51.819925+00:00 app[web.1]: npm ERR!
+2018-07-12T21:00:51.820142+00:00 app[web.1]: npm ERR! Failed at the blogapi-challenge@1.0.0 start script.
+2018-07-12T21:00:51.820352+00:00 app[web.1]: npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+2018-07-12T21:00:51.864061+00:00 app[web.1]:
+2018-07-12T21:00:51.864262+00:00 app[web.1]: npm ERR! A complete log of this run can be found in:
+2018-07-12T21:00:51.864361+00:00 app[web.1]: npm ERR!     /app/.npm/_logs/2018-07-12T21_00_51_832Z-debug.log
+2018-07-12T21:11:23.000000+00:00 app[api]: Build started by user looneydevelopment@gmail.com
+2018-07-12T21:11:33.832624+00:00 heroku[web.1]: State changed from crashed to starting
+2018-07-12T21:11:33.356452+00:00 app[api]: Deploy 0620f45b by user looneydevelopment@gmail.com
+2018-07-12T21:11:33.356452+00:00 app[api]: Release v5 created by user looneydevelopment@gmail.com
+2018-07-12T21:11:33.000000+00:00 app[api]: Build succeeded
+2018-07-12T21:11:36.798356+00:00 heroku[web.1]: Starting process with command `npm start`
+2018-07-12T21:11:39.059719+00:00 app[web.1]:
+2018-07-12T21:11:39.059751+00:00 app[web.1]: > blogapi-challenge@1.0.0 start /app
+2018-07-12T21:11:39.059753+00:00 app[web.1]: > node server.js
+2018-07-12T21:11:39.059755+00:00 app[web.1]:
+2018-07-12T21:11:39.343226+00:00 app[web.1]: Your app is listening on port 51626
+2018-07-12T21:11:40.461496+00:00 heroku[web.1]: State changed from starting to up
+2018-07-12T21:19:05.000000+00:00 app[api]: Build started by user looneydevelopment@gmail.com
+2018-07-12T21:19:16.295349+00:00 heroku[web.1]: Restarting
+2018-07-12T21:19:16.295824+00:00 heroku[web.1]: State changed from up to starting
+2018-07-12T21:19:16.888889+00:00 heroku[web.1]: Stopping all processes with SIGTERM
+2018-07-12T21:19:16.964127+00:00 heroku[web.1]: Process exited with status 143
+2018-07-12T21:19:16.147558+00:00 app[api]: Deploy 0cb25621 by user looneydevelopment@gmail.com
+2018-07-12T21:19:16.147558+00:00 app[api]: Release v6 created by user looneydevelopment@gmail.com
+2018-07-12T21:19:18.043092+00:00 heroku[web.1]: Starting process with command `npm start`
+2018-07-12T21:19:16.000000+00:00 app[api]: Build succeeded
+2018-07-12T21:19:19.940531+00:00 app[web.1]: > blogapi-challenge@1.0.0 start /app
+2018-07-12T21:19:19.940507+00:00 app[web.1]:
+2018-07-12T21:19:19.940533+00:00 app[web.1]: > PORT=8080 node server.js
+2018-07-12T21:19:19.940535+00:00 app[web.1]:
+2018-07-12T21:19:20.134230+00:00 app[web.1]: Your app is listening on port 8080
+2018-07-12T21:20:18.388499+00:00 heroku[web.1]: State changed from starting to crashed
+2018-07-12T21:20:18.390615+00:00 heroku[web.1]: State changed from crashed to starting
+2018-07-12T21:20:18.297855+00:00 heroku[web.1]: Error R10 (Boot timeout) -> Web process failed to bind to $PORT within 60 seconds of launch
+2018-07-12T21:20:18.297909+00:00 heroku[web.1]: Stopping process with SIGKILL
+2018-07-12T21:20:18.372915+00:00 heroku[web.1]: Process exited with status 137
+2018-07-12T21:20:20.981143+00:00 heroku[web.1]: Starting process with command `npm start`
+2018-07-12T21:20:24.177403+00:00 app[web.1]:
+2018-07-12T21:20:24.177422+00:00 app[web.1]: > blogapi-challenge@1.0.0 start /app
+2018-07-12T21:20:24.177424+00:00 app[web.1]: > PORT=8080 node server.js
+2018-07-12T21:20:24.177426+00:00 app[web.1]:
+2018-07-12T21:20:24.619272+00:00 app[web.1]: Your app is listening on port 8080
+2018-07-12T21:21:21.693625+00:00 app[web.1]: Error waiting for process to terminate: No child processes
+2018-07-12T21:21:21.668959+00:00 heroku[web.1]: Error R10 (Boot timeout) -> Web process failed to bind to $PORT within 60 seconds of launch
+2018-07-12T21:21:21.669121+00:00 heroku[web.1]: Stopping process with SIGKILL
+2018-07-12T21:21:21.789297+00:00 heroku[web.1]: Process exited with status 22
+2018-07-12T21:21:21.808590+00:00 heroku[web.1]: State changed from starting to crashed
+2018-07-12T21:21:23.165030+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/" host=radiant-inlet-92650.herokuapp.com request_id=2c44dc79-a064-42c5-adca-0fea755e2845 fwd="70.180.138.204" dyno= connect= service= status=503 bytes= protocol=https
+2018-07-12T21:21:24.338540+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/favicon.ico" host=radiant-inlet-92650.herokuapp.com request_id=be88a96b-9c6c-4221-a403-87109fcf11ca fwd="70.180.138.204" dyno= connect= service= status=503 bytes= protocol=https
+2018-07-12T21:22:14.968678+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/blog-posts" host=radiant-inlet-92650.herokuapp.com request_id=9c59dee3-d33d-464d-9885-859481f13eb3 fwd="70.180.138.204" dyno= connect= service= status=503 bytes= protocol=https
+2018-07-12T21:22:15.501241+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/favicon.ico" host=radiant-inlet-92650.herokuapp.com request_id=398ac697-5f2e-4bb2-a169-a488f7c69cc6 fwd="70.180.138.204" dyno= connect= service= status=503 bytes= protocol=https
+HBs-MacBook-Pro:blogapi-challenge HeatherMarieLooney$ heroku ps:scale
+web=1:Free
+HBs-MacBook-Pro:blogapi-challenge HeatherMarieLooney$ heroku logs
+2018-07-12T20:36:10.224550+00:00 app[web.1]:
+2018-07-12T20:36:10.224575+00:00 app[web.1]: > blogapi-challenge@1.0.0 start /app
+2018-07-12T20:36:10.224577+00:00 app[web.1]: > node server.js
+2018-07-12T20:36:10.224579+00:00 app[web.1]:
+2018-07-12T20:36:10.312817+00:00 app[web.1]: module.js:549
+2018-07-12T20:36:10.312820+00:00 app[web.1]: throw err;
+2018-07-12T20:36:10.312822+00:00 app[web.1]: ^
+2018-07-12T20:36:10.312823+00:00 app[web.1]:
+2018-07-12T20:36:10.312825+00:00 app[web.1]: Error: Cannot find module '/app/server.js'
+2018-07-12T20:36:10.312829+00:00 app[web.1]: at Function.Module._resolveFilename (module.js:547:15)
+2018-07-12T20:36:10.312831+00:00 app[web.1]: at Function.Module._load (module.js:474:25)
+2018-07-12T20:36:10.312832+00:00 app[web.1]: at Function.Module.runMain (module.js:693:10)
+2018-07-12T20:36:10.312834+00:00 app[web.1]: at startup (bootstrap_node.js:191:16)
+2018-07-12T20:36:10.312835+00:00 app[web.1]: at bootstrap_node.js:612:3
+2018-07-12T20:36:10.319599+00:00 app[web.1]: npm ERR! code ELIFECYCLE
+2018-07-12T20:36:10.319993+00:00 app[web.1]: npm ERR! errno 1
+2018-07-12T20:36:10.321024+00:00 app[web.1]: npm ERR! blogapi-challenge@1.0.0 start: `node server.js`
+2018-07-12T20:36:10.321173+00:00 app[web.1]: npm ERR! Exit status 1
+2018-07-12T20:36:10.321398+00:00 app[web.1]: npm ERR!
+2018-07-12T20:36:10.321564+00:00 app[web.1]: npm ERR! Failed at the blogapi-challenge@1.0.0 start script.
+2018-07-12T20:36:10.321730+00:00 app[web.1]: npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+2018-07-12T20:36:10.325678+00:00 app[web.1]:
+2018-07-12T20:36:10.325810+00:00 app[web.1]: npm ERR! A complete log of this run can be found in:
+2018-07-12T20:36:10.325890+00:00 app[web.1]: npm ERR!     /app/.npm/_logs/2018-07-12T20_36_10_323Z-debug.log
+2018-07-12T20:36:10.409661+00:00 heroku[web.1]: State changed from starting to crashed
+2018-07-12T20:36:10.391743+00:00 heroku[web.1]: Process exited with status 1
+2018-07-12T21:00:43.447364+00:00 heroku[web.1]: State changed from crashed to starting
+2018-07-12T21:00:48.199329+00:00 heroku[web.1]: Starting process with command `npm start`
+2018-07-12T21:00:51.974295+00:00 heroku[web.1]: Process exited with status 1
+2018-07-12T21:00:52.088390+00:00 heroku[web.1]: State changed from starting to crashed
+2018-07-12T21:00:51.592691+00:00 app[web.1]:
+2018-07-12T21:00:51.592712+00:00 app[web.1]: > blogapi-challenge@1.0.0 start /app
+2018-07-12T21:00:51.592713+00:00 app[web.1]: > node server.js
+2018-07-12T21:00:51.592715+00:00 app[web.1]:
+2018-07-12T21:00:51.798680+00:00 app[web.1]: throw err;
+2018-07-12T21:00:51.798677+00:00 app[web.1]: module.js:549
+2018-07-12T21:00:51.798687+00:00 app[web.1]: ^
+2018-07-12T21:00:51.798688+00:00 app[web.1]:
+2018-07-12T21:00:51.798690+00:00 app[web.1]: Error: Cannot find module '/app/server.js'
+2018-07-12T21:00:51.798693+00:00 app[web.1]: at Function.Module._resolveFilename (module.js:547:15)
+2018-07-12T21:00:51.798694+00:00 app[web.1]: at Function.Module._load (module.js:474:25)
+2018-07-12T21:00:51.798696+00:00 app[web.1]: at Function.Module.runMain (module.js:693:10)
+2018-07-12T21:00:51.798697+00:00 app[web.1]: at startup (bootstrap_node.js:191:16)
+2018-07-12T21:00:51.798699+00:00 app[web.1]: at bootstrap_node.js:612:3
+2018-07-12T21:00:51.817077+00:00 app[web.1]: npm ERR! code ELIFECYCLE
+2018-07-12T21:00:51.817602+00:00 app[web.1]: npm ERR! errno 1
+2018-07-12T21:00:51.819382+00:00 app[web.1]: npm ERR! blogapi-challenge@1.0.0 start: `node server.js`
+2018-07-12T21:00:51.819596+00:00 app[web.1]: npm ERR! Exit status 1
+2018-07-12T21:00:51.819925+00:00 app[web.1]: npm ERR!
+2018-07-12T21:00:51.820142+00:00 app[web.1]: npm ERR! Failed at the blogapi-challenge@1.0.0 start script.
+2018-07-12T21:00:51.820352+00:00 app[web.1]: npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+2018-07-12T21:00:51.864061+00:00 app[web.1]:
+2018-07-12T21:00:51.864262+00:00 app[web.1]: npm ERR! A complete log of this run can be found in:
+2018-07-12T21:00:51.864361+00:00 app[web.1]: npm ERR!     /app/.npm/_logs/2018-07-12T21_00_51_832Z-debug.log
+2018-07-12T21:11:23.000000+00:00 app[api]: Build started by user looneydevelopment@gmail.com
+2018-07-12T21:11:33.832624+00:00 heroku[web.1]: State changed from crashed to starting
+2018-07-12T21:11:33.356452+00:00 app[api]: Deploy 0620f45b by user looneydevelopment@gmail.com
+2018-07-12T21:11:33.356452+00:00 app[api]: Release v5 created by user looneydevelopment@gmail.com
+2018-07-12T21:11:33.000000+00:00 app[api]: Build succeeded
+2018-07-12T21:11:36.798356+00:00 heroku[web.1]: Starting process with command `npm start`
+2018-07-12T21:11:39.059719+00:00 app[web.1]:
+2018-07-12T21:11:39.059751+00:00 app[web.1]: > blogapi-challenge@1.0.0 start /app
+2018-07-12T21:11:39.059753+00:00 app[web.1]: > node server.js
+2018-07-12T21:11:39.059755+00:00 app[web.1]:
+2018-07-12T21:11:39.343226+00:00 app[web.1]: Your app is listening on port 51626
+2018-07-12T21:11:40.461496+00:00 heroku[web.1]: State changed from starting to up
+2018-07-12T21:19:05.000000+00:00 app[api]: Build started by user looneydevelopment@gmail.com
+2018-07-12T21:19:16.295349+00:00 heroku[web.1]: Restarting
+2018-07-12T21:19:16.295824+00:00 heroku[web.1]: State changed from up to starting
+2018-07-12T21:19:16.888889+00:00 heroku[web.1]: Stopping all processes with SIGTERM
+2018-07-12T21:19:16.964127+00:00 heroku[web.1]: Process exited with status 143
+2018-07-12T21:19:16.147558+00:00 app[api]: Deploy 0cb25621 by user looneydevelopment@gmail.com
+2018-07-12T21:19:16.147558+00:00 app[api]: Release v6 created by user looneydevelopment@gmail.com
+2018-07-12T21:19:18.043092+00:00 heroku[web.1]: Starting process with command `npm start`
+2018-07-12T21:19:16.000000+00:00 app[api]: Build succeeded
+2018-07-12T21:19:19.940531+00:00 app[web.1]: > blogapi-challenge@1.0.0 start /app
+2018-07-12T21:19:19.940507+00:00 app[web.1]:
+2018-07-12T21:19:19.940533+00:00 app[web.1]: > PORT=8080 node server.js
+2018-07-12T21:19:19.940535+00:00 app[web.1]:
+2018-07-12T21:19:20.134230+00:00 app[web.1]: Your app is listening on port 8080
+2018-07-12T21:20:18.388499+00:00 heroku[web.1]: State changed from starting to crashed
+2018-07-12T21:20:18.390615+00:00 heroku[web.1]: State changed from crashed to starting
+2018-07-12T21:20:18.297855+00:00 heroku[web.1]: Error R10 (Boot timeout) -> Web process failed to bind to $PORT within 60 seconds of launch
+2018-07-12T21:20:18.297909+00:00 heroku[web.1]: Stopping process with SIGKILL
+2018-07-12T21:20:18.372915+00:00 heroku[web.1]: Process exited with status 137
+2018-07-12T21:20:20.981143+00:00 heroku[web.1]: Starting process with command `npm start`
+2018-07-12T21:20:24.177403+00:00 app[web.1]:
+2018-07-12T21:20:24.177422+00:00 app[web.1]: > blogapi-challenge@1.0.0 start /app
+2018-07-12T21:20:24.177424+00:00 app[web.1]: > PORT=8080 node server.js
+2018-07-12T21:20:24.177426+00:00 app[web.1]:
+2018-07-12T21:20:24.619272+00:00 app[web.1]: Your app is listening on port 8080
+2018-07-12T21:21:21.693625+00:00 app[web.1]: Error waiting for process to terminate: No child processes
+2018-07-12T21:21:21.668959+00:00 heroku[web.1]: Error R10 (Boot timeout) -> Web process failed to bind to $PORT within 60 seconds of launch
+2018-07-12T21:21:21.669121+00:00 heroku[web.1]: Stopping process with SIGKILL
+2018-07-12T21:21:21.789297+00:00 heroku[web.1]: Process exited with status 22
+2018-07-12T21:21:21.808590+00:00 heroku[web.1]: State changed from starting to crashed
+2018-07-12T21:21:23.165030+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/" host=radiant-inlet-92650.herokuapp.com request_id=2c44dc79-a064-42c5-adca-0fea755e2845 fwd="70.180.138.204" dyno= connect= service= status=503 bytes= protocol=https
+2018-07-12T21:21:24.338540+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/favicon.ico" host=radiant-inlet-92650.herokuapp.com request_id=be88a96b-9c6c-4221-a403-87109fcf11ca fwd="70.180.138.204" dyno= connect= service= status=503 bytes= protocol=https
+2018-07-12T21:22:14.968678+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/blog-posts" host=radiant-inlet-92650.herokuapp.com request_id=9c59dee3-d33d-464d-9885-859481f13eb3 fwd="70.180.138.204" dyno= connect= service= status=503 bytes= protocol=https
+2018-07-12T21:22:15.501241+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/favicon.ico" host=radiant-inlet-92650.herokuapp.com request_id=398ac697-5f2e-4bb2-a169-a488f7c69cc6 fwd="70.180.138.204" dyno= connect= service= status=503 bytes= protocol=https
+HBs-MacBook-Pro:blogapi-challenge HeatherMarieLooney$ git commit -am 'changing scripts start back to normal'
+[master d1d99fb] changing scripts start back to normal
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HBs-MacBook-Pro:blogapi-challenge HeatherMarieLooney$ git push
+Counting objects: 3, done.
+Delta compression using up to 8 threads.
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 315 bytes | 315.00 KiB/s, done.
+Total 3 (delta 2), reused 0 (delta 0)
+remote: Resolving deltas: 100% (2/2), completed with 2 local objects.
+To https://github.com/looneywebdev/blogposts-challenge.git
+   0cb2562..d1d99fb  master -> master
+HBs-MacBook-Pro:blogapi-challenge HeatherMarieLooney$ heroku logs
+2018-07-12T20:36:10.321024+00:00 app[web.1]: npm ERR! blogapi-challenge@1.0.0 start: `node server.js`
+2018-07-12T20:36:10.321173+00:00 app[web.1]: npm ERR! Exit status 1
+2018-07-12T20:36:10.321398+00:00 app[web.1]: npm ERR!
+2018-07-12T20:36:10.321564+00:00 app[web.1]: npm ERR! Failed at the blogapi-challenge@1.0.0 start script.
+2018-07-12T20:36:10.321730+00:00 app[web.1]: npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+2018-07-12T20:36:10.325678+00:00 app[web.1]:
+2018-07-12T20:36:10.325810+00:00 app[web.1]: npm ERR! A complete log of this run can be found in:
+2018-07-12T20:36:10.325890+00:00 app[web.1]: npm ERR!     /app/.npm/_logs/2018-07-12T20_36_10_323Z-debug.log
+2018-07-12T20:36:10.409661+00:00 heroku[web.1]: State changed from starting to crashed
+2018-07-12T20:36:10.391743+00:00 heroku[web.1]: Process exited with status 1
+2018-07-12T21:00:43.447364+00:00 heroku[web.1]: State changed from crashed to starting
+2018-07-12T21:00:48.199329+00:00 heroku[web.1]: Starting process with command `npm start`
+2018-07-12T21:00:51.974295+00:00 heroku[web.1]: Process exited with status 1
+2018-07-12T21:00:52.088390+00:00 heroku[web.1]: State changed from starting to crashed
+2018-07-12T21:00:51.592691+00:00 app[web.1]:
+2018-07-12T21:00:51.592712+00:00 app[web.1]: > blogapi-challenge@1.0.0 start /app
+2018-07-12T21:00:51.592713+00:00 app[web.1]: > node server.js
+2018-07-12T21:00:51.592715+00:00 app[web.1]:
+2018-07-12T21:00:51.798680+00:00 app[web.1]: throw err;
+2018-07-12T21:00:51.798677+00:00 app[web.1]: module.js:549
+2018-07-12T21:00:51.798687+00:00 app[web.1]: ^
+2018-07-12T21:00:51.798688+00:00 app[web.1]:
+2018-07-12T21:00:51.798690+00:00 app[web.1]: Error: Cannot find module '/app/server.js'
+2018-07-12T21:00:51.798693+00:00 app[web.1]: at Function.Module._resolveFilename (module.js:547:15)
+2018-07-12T21:00:51.798694+00:00 app[web.1]: at Function.Module._load (module.js:474:25)
+2018-07-12T21:00:51.798696+00:00 app[web.1]: at Function.Module.runMain (module.js:693:10)
+2018-07-12T21:00:51.798697+00:00 app[web.1]: at startup (bootstrap_node.js:191:16)
+2018-07-12T21:00:51.798699+00:00 app[web.1]: at bootstrap_node.js:612:3
+2018-07-12T21:00:51.817077+00:00 app[web.1]: npm ERR! code ELIFECYCLE
+2018-07-12T21:00:51.817602+00:00 app[web.1]: npm ERR! errno 1
+2018-07-12T21:00:51.819382+00:00 app[web.1]: npm ERR! blogapi-challenge@1.0.0 start: `node server.js`
+2018-07-12T21:00:51.819596+00:00 app[web.1]: npm ERR! Exit status 1
+2018-07-12T21:00:51.819925+00:00 app[web.1]: npm ERR!
+2018-07-12T21:00:51.820142+00:00 app[web.1]: npm ERR! Failed at the blogapi-challenge@1.0.0 start script.
+2018-07-12T21:00:51.820352+00:00 app[web.1]: npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+2018-07-12T21:00:51.864061+00:00 app[web.1]:
+2018-07-12T21:00:51.864262+00:00 app[web.1]: npm ERR! A complete log of this run can be found in:
+2018-07-12T21:00:51.864361+00:00 app[web.1]: npm ERR!     /app/.npm/_logs/2018-07-12T21_00_51_832Z-debug.log
+2018-07-12T21:11:23.000000+00:00 app[api]: Build started by user looneydevelopment@gmail.com
+2018-07-12T21:11:33.832624+00:00 heroku[web.1]: State changed from crashed to starting
+2018-07-12T21:11:33.356452+00:00 app[api]: Deploy 0620f45b by user looneydevelopment@gmail.com
+2018-07-12T21:11:33.356452+00:00 app[api]: Release v5 created by user looneydevelopment@gmail.com
+2018-07-12T21:11:33.000000+00:00 app[api]: Build succeeded
+2018-07-12T21:11:36.798356+00:00 heroku[web.1]: Starting process with command `npm start`
+2018-07-12T21:11:39.059719+00:00 app[web.1]:
+2018-07-12T21:11:39.059751+00:00 app[web.1]: > blogapi-challenge@1.0.0 start /app
+2018-07-12T21:11:39.059753+00:00 app[web.1]: > node server.js
+2018-07-12T21:11:39.059755+00:00 app[web.1]:
+2018-07-12T21:11:39.343226+00:00 app[web.1]: Your app is listening on port 51626
+2018-07-12T21:11:40.461496+00:00 heroku[web.1]: State changed from starting to up
+2018-07-12T21:19:05.000000+00:00 app[api]: Build started by user looneydevelopment@gmail.com
+2018-07-12T21:19:16.295349+00:00 heroku[web.1]: Restarting
+2018-07-12T21:19:16.295824+00:00 heroku[web.1]: State changed from up to starting
+2018-07-12T21:19:16.888889+00:00 heroku[web.1]: Stopping all processes with SIGTERM
+2018-07-12T21:19:16.964127+00:00 heroku[web.1]: Process exited with status 143
+2018-07-12T21:19:16.147558+00:00 app[api]: Deploy 0cb25621 by user looneydevelopment@gmail.com
+2018-07-12T21:19:16.147558+00:00 app[api]: Release v6 created by user looneydevelopment@gmail.com
+2018-07-12T21:19:18.043092+00:00 heroku[web.1]: Starting process with command `npm start`
+2018-07-12T21:19:16.000000+00:00 app[api]: Build succeeded
+2018-07-12T21:19:19.940531+00:00 app[web.1]: > blogapi-challenge@1.0.0 start /app
+2018-07-12T21:19:19.940507+00:00 app[web.1]:
+2018-07-12T21:19:19.940533+00:00 app[web.1]: > PORT=8080 node server.js
+2018-07-12T21:19:19.940535+00:00 app[web.1]:
+2018-07-12T21:19:20.134230+00:00 app[web.1]: Your app is listening on port 8080
+2018-07-12T21:20:18.388499+00:00 heroku[web.1]: State changed from starting to crashed
+2018-07-12T21:20:18.390615+00:00 heroku[web.1]: State changed from crashed to starting
+2018-07-12T21:20:18.297855+00:00 heroku[web.1]: Error R10 (Boot timeout) -> Web process failed to bind to $PORT within 60 seconds of launch
+2018-07-12T21:20:18.297909+00:00 heroku[web.1]: Stopping process with SIGKILL
+2018-07-12T21:20:18.372915+00:00 heroku[web.1]: Process exited with status 137
+2018-07-12T21:20:20.981143+00:00 heroku[web.1]: Starting process with command `npm start`
+2018-07-12T21:20:24.177403+00:00 app[web.1]:
+2018-07-12T21:20:24.177422+00:00 app[web.1]: > blogapi-challenge@1.0.0 start /app
+2018-07-12T21:20:24.177424+00:00 app[web.1]: > PORT=8080 node server.js
+2018-07-12T21:20:24.177426+00:00 app[web.1]:
+2018-07-12T21:20:24.619272+00:00 app[web.1]: Your app is listening on port 8080
+2018-07-12T21:21:21.693625+00:00 app[web.1]: Error waiting for process to terminate: No child processes
+2018-07-12T21:21:21.668959+00:00 heroku[web.1]: Error R10 (Boot timeout) -> Web process failed to bind to $PORT within 60 seconds of launch
+2018-07-12T21:21:21.669121+00:00 heroku[web.1]: Stopping process with SIGKILL
+2018-07-12T21:21:21.789297+00:00 heroku[web.1]: Process exited with status 22
+2018-07-12T21:21:21.808590+00:00 heroku[web.1]: State changed from starting to crashed
+2018-07-12T21:21:23.165030+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/" host=radiant-inlet-92650.herokuapp.com request_id=2c44dc79-a064-42c5-adca-0fea755e2845 fwd="70.180.138.204" dyno= connect= service= status=503 bytes= protocol=https
+2018-07-12T21:21:24.338540+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/favicon.ico" host=radiant-inlet-92650.herokuapp.com request_id=be88a96b-9c6c-4221-a403-87109fcf11ca fwd="70.180.138.204" dyno= connect= service= status=503 bytes= protocol=https
+2018-07-12T21:22:14.968678+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/blog-posts" host=radiant-inlet-92650.herokuapp.com request_id=9c59dee3-d33d-464d-9885-859481f13eb3 fwd="70.180.138.204" dyno= connect= service= status=503 bytes= protocol=https
+2018-07-12T21:22:15.501241+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/favicon.ico" host=radiant-inlet-92650.herokuapp.com request_id=398ac697-5f2e-4bb2-a169-a488f7c69cc6 fwd="70.180.138.204" dyno= connect= service= status=503 bytes= protocol=https
+2018-07-12T21:27:55.000000+00:00 app[api]: Build started by user looneydevelopment@gmail.com
+2018-07-12T21:28:05.250615+00:00 app[api]: Release v7 created by user looneydevelopment@gmail.com
+2018-07-12T21:28:05.250615+00:00 app[api]: Deploy d1d99fb5 by user looneydevelopment@gmail.com
+2018-07-12T21:28:05.722450+00:00 heroku[web.1]: State changed from crashed to starting
+2018-07-12T21:28:05.000000+00:00 app[api]: Build succeeded
+2018-07-12T21:28:07.460488+00:00 heroku[web.1]: Starting process with command `npm start`
+2018-07-12T21:28:09.528266+00:00 app[web.1]:
+2018-07-12T21:28:09.528288+00:00 app[web.1]: > blogapi-challenge@1.0.0 start /app
+2018-07-12T21:28:09.528290+00:00 app[web.1]: > node server.js
+2018-07-12T21:28:09.528292+00:00 app[web.1]:
+2018-07-12T21:28:09.727498+00:00 app[web.1]: Your app is listening on port 18121
+2018-07-12T21:28:11.127662+00:00 heroku[web.1]: State changed from starting to up
+2018-07-12T21:28:14.691569+00:00 heroku[router]: at=info method=GET path="/blog-posts" host=radiant-inlet-92650.herokuapp.com request_id=1e5c3061-81cd-487c-abb1-f05052c441f8 fwd="70.180.138.204" dyno=web.1 connect=1ms service=13ms status=200 bytes=799 protocol=https
+2018-07-12T21:28:14.694736+00:00 app[web.1]: ::ffff:10.138.21.151 - - [12/Jul/2018:21:28:14 +0000] "GET /blog-posts HTTP/1.1" 200 590
+2018-07-12T21:28:15.069345+00:00 heroku[router]: at=info method=GET path="/favicon.ico" host=radiant-inlet-92650.herokuapp.com request_id=71bc5500-27df-449a-ab77-56e14240a02b fwd="70.180.138.204" dyno=web.1 connect=1ms service=4ms status=404 bytes=394 protocol=https
+2018-07-12T21:28:15.070553+00:00 app[web.1]: ::ffff:10.138.21.151 - - [12/Jul/2018:21:28:15 +0000] "GET /favicon.ico HTTP/1.1" 404 150
+HBs-MacBook-Pro:blogapi-challenge HeatherMarieLooney$ ls
+blogPostsRouter2.js     node_modules            package.json            server.js
+models.js               package-lock.json       public                  test
+HBs-MacBook-Pro:blogapi-challenge HeatherMarieLooney$ git commit -am 'modified mainjs file name in packagejson file'
+[master ec7b78f] modified mainjs file name in packagejson file
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HBs-MacBook-Pro:blogapi-challenge HeatherMarieLooney$ git push
+Counting objects: 3, done.
+Delta compression using up to 8 threads.
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 324 bytes | 324.00 KiB/s, done.
+Total 3 (delta 2), reused 0 (delta 0)
+remote: Resolving deltas: 100% (2/2), completed with 2 local objects.
+To https://github.com/looneywebdev/blogposts-challenge.git
+   d1d99fb..ec7b78f  master -> master
+HBs-MacBook-Pro:blogapi-challenge HeatherMarieLooney$ heroku auth:token
+ ›   Warning: token will expire 06/27/2019
+ ›   Use heroku authorizations:create to generate a long-term token
+64db54de-9917-4fb9-9c70-e98891ba2daf
+HBs-MacBook-Pro:blogapi-challenge HeatherMarieLooney$ travis encrypt $(64db54de-9917-4fb9-9c70-e98891ba2daf) --add deploy.api_key
+bash: 64db54de-9917-4fb9-9c70-e98891ba2daf: command not found
+Reading from stdin, press Ctrl+D when done
+HBs-MacBook-Pro:blogapi-challenge HeatherMarieLooney$ travis encrypt $(heroku auth:token) --add deploy.api_key
+ ›   Warning: token will expire 06/27/2019
+ ›   Use heroku authorizations:create to generate a long-term token
+HBs-MacBook-Pro:blogapi-challenge HeatherMarieLooney$ git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+        modified:   .travis.yml
+
+no changes added to commit (use "git add" and/or "git commit -a")
+HBs-MacBook-Pro:blogapi-challenge HeatherMarieLooney$ git diff
+diff --git a/.travis.yml b/.travis.yml
+index f47cdf3..0f01aaf 100644
+--- a/.travis.yml
++++ b/.travis.yml
+@@ -1,10 +1,10 @@
+ language: node_js
+ node_js:
+-  - "8.11.2"
++- 8.11.2
+ deploy:
+   provider: heroku
+   api_key:
+-    secure: ZF6HG6COCEBpC+nP7omQwBN+YfBDbRA41VOMFJwwGnhgIEc2nDlVHTS6JRqLIy0cx3i+AAYZMJKRwCnVXLWckhXzPsnbWUrngE2cKML542K8KdSTKsSKI+WaqDRT4FllrfBiv95O8X3Xj9DB7xwUEaTbPNBNtMHpfOlj0Mi4dl+YVUKEf85cC07bN4BskpXHAYJ2XHZRqdL0i/biGkYmOkFj5cuiV/9ci7yx4D5wp+1v/qYqvJND7bu4GwuPhhQP45r1dIyGzQy4yigN/RM2/OGZ82q736pNZWmR3YN+Rq/Pd71FboF8RdFOfNbrcfLprAsWpTuky0Zcqr6MYrmGq3o5ly+FFvUxAvgTs+vaIvfx508wEBstvgy3/Gh7lxB77NL3rZ8YPqk9pe5usIEIagAYW3EL1zLSUeSo0F0vVkEJqtExzQELJLJUr6rvR8fcGTFeFxbaenkVWugxpaw/7X/Rhxgi/RV+Ve9gRFyGTwxokr2TJvYjGSLAHcJS1yC9+6ygCOi6cMQ/XE42xaseS8/GV7ysbuIilqPlTOuTgL36m7NxeKLjB+cBPuybszRQejtQAvXN0Ob+n7bAS8//ucvzYmTcKgoVH046/NS+bQMosJ8t5WHzxC/qKK8dBEdPVmqJjfQzdYJ73gPgw2BEHLjCv1qNsLSVgxp8Vm2Ozt4=
++    secure: JgGoL8Br6drnoF+CmnUYxWA7MR5IRMID0RE7SMPJsSm+5BKPA10cglRMdMbfG1JbmKB5+f7uG8OxTs/mAVBO1cXWoGTmCZXqOj9zFPHvxM23v3PIg6HNEGa+HM0iuL/0pHVYmJ74SpY4AHeT+KCWEV9/KPjZfxTHPeA5fFCAKqqtTqcVjWrmvxcHNPp8D1DsXow1sbV/48Mj2F+fwZBykgxREkZjLkvPcWseA9pGE8XiOYP5tI73m9eotKgb+yCE6GT5KiUUuSOqll7PEImuYY8RP+/HPLs51TfOo8H0xikG+mmLq7xNfRC4r2RlQzf23z5WdmOulcbYhzx2mitqsa3OyDThdd0ui1ZiLvKtxhlHE5SoNQvwCqZ0nAU4qktrEBrD8gQjff3j7u6p6yOh6nReFOdSDLMyGR8mYVmjM4VlqMC4Y/eU6jYCxu5zTGygRLaJslukNMFsihtsLLPPDHMA0jNsUpOvWw0o89z3NoesqiNqbEsh80jcyVSZHSDcDqD9e9/nF7k60LQCA1IiFkPsxWBn04jNPdbhG53U6ceDtzuE9T/w+uZksHghL7yLqrH/LKbKLMXcbwBw9ngedALpnZ4wH+jnQvNWWPxuqpdSyXSC8FAi/KSg+duF2Rbwxlma5hsGENID1qh5crcYUOIFe9T4A/pirMMGePEzr5c=
+   app: radiant-inlet-92650
+   on:
+     repo: looneywebdev/blogposts-challenge
+HBs-MacBook-Pro:blogapi-challenge HeatherMarieLooney$ git commit -am 'modified heroku key'
+[master a8b1f32] modified heroku key
+ 1 file changed, 10 insertions(+), 10 deletions(-)
+ rewrite .travis.yml (83%)
+HBs-MacBook-Pro:blogapi-challenge HeatherMarieLooney$ git push
+Counting objects: 3, done.
+Delta compression using up to 8 threads.
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 949 bytes | 949.00 KiB/s, done.
+Total 3 (delta 1), reused 0 (delta 0)
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+To https://github.com/looneywebdev/blogposts-challenge.git
+   ec7b78f..a8b1f32  master -> master
+HBs-MacBook-Pro:blogapi-challenge HeatherMarieLooney$
